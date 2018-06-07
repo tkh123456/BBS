@@ -1933,10 +1933,13 @@
 				<item id="name"><![CDATA[文字广告链接]]></item>
 				<item id="title"><![CDATA[]]></item>
 				<item id="classname"><![CDATA[]]></item>
-				<item id="summary"><![CDATA[<ul class="xl xl1 cl">
-<li><a href="http://www.discuz.net/">这里是文字广告链接</a></li>
-<li><a href="http://www.discuz.net/">这里是文字广告链接</a></li><li><a href="http://www.discuz.net/">这里是文字广告链接</a></li><li><a href="http://www.discuz.net/">这里是文字广告链接</a></li>
-</ul>]]></item>
+				<item id="summary">
+				<!-- <![CDATA[<ul class="xl xl1 cl">
+<li><a href="http://www.baidu.com/">这里是文字广告链接</a></li>
+<li><a href="http://www.baidu.com/">这里是文字广告链接</a></li>
+<li><a href="http://www.baidu.com/">这里是文字广告链接</a></li>
+<li><a href="http://www.baidu.com/">这里是文字广告链接</a></li>
+</ul>]]>		</item> -->
 				<item id="uid"><![CDATA[1]]></item>
 				<item id="username"><![CDATA[admin]]></item>
 				<item id="styleid"><![CDATA[0]]></item>
@@ -1948,10 +1951,10 @@
 				<item id="dateuformat"><![CDATA[0]]></item>
 				<item id="script"><![CDATA[blank]]></item>
 				<item id="param">
-					<item id="content"><![CDATA[<ul class=\"xl xl1 cl\">
+					<!-- <item id="content"><![CDATA[<ul class=\"xl xl1 cl\">
 <li><a href=\"http://www.discuz.net/\">这里是文字广告链接</a></li>
 <li><a href=\"http://www.discuz.net/\">这里是文字广告链接</a></li><li><a href=\"http://www.discuz.net/\">这里是文字广告链接</a></li><li><a href=\"http://www.discuz.net/\">这里是文字广告链接</a></li>
-</ul>]]></item>
+</ul>]]></item> -->
 					<item id="items"><![CDATA[10]]></item>
 				</item>
 				<item id="shownum"><![CDATA[10]]></item>
@@ -3026,7 +3029,7 @@
 				<item id="name"><![CDATA[]]></item>
 				<item id="title"><![CDATA[<div class="blocktitle title"><span style="" class="titletext">推荐商铺</span></div>]]></item>
 				<item id="classname"><![CDATA[]]></item>
-				<item id="summary"><![CDATA[<ul class="xl xl2 cl">
+				<!-- <item id="summary"><![CDATA[<ul class="xl xl2 cl">
 <li>嘉嘉卡盟 [认证]</li>
 <li>美妍坊</li>
 <li>家美乐专卖店</li>
@@ -3039,7 +3042,7 @@
 <li>穿越火线</li>
 <li>淘衣小铺</li>
 <li>心动折扣店</li>
-</ul>]]></item>
+</ul>]]></item> -->
 				<item id="uid"><![CDATA[1]]></item>
 				<item id="username"><![CDATA[admin]]></item>
 				<item id="styleid"><![CDATA[0]]></item>
@@ -3051,7 +3054,7 @@
 				<item id="dateuformat"><![CDATA[0]]></item>
 				<item id="script"><![CDATA[blank]]></item>
 				<item id="param">
-					<item id="content"><![CDATA[<ul class=\"xl xl2 cl\">
+					<!-- <item id="content"><![CDATA[<ul class=\"xl xl2 cl\">
 <li>嘉嘉卡盟 [认证]</li>
 <li>美妍坊</li>
 <li>家美乐专卖店</li>
@@ -3064,7 +3067,7 @@
 <li>穿越火线</li>
 <li>淘衣小铺</li>
 <li>心动折扣店</li>
-</ul>]]></item>
+</ul>]]></item> -->
 					<item id="items"><![CDATA[0]]></item>
 				</item>
 				<item id="shownum"><![CDATA[10]]></item>
@@ -3112,10 +3115,10 @@
 				<item id="name"><![CDATA[首页底部文字广告链接左]]></item>
 				<item id="title"><![CDATA[]]></item>
 				<item id="classname"><![CDATA[]]></item>
-				<item id="summary"><![CDATA[<ul class="xl xl2 cl">
+				<!-- <item id="summary"><![CDATA[<ul class="xl xl2 cl">
 <li><a href="http://www.discuz.net/">这里是文字广告链接</a></li>
 <li><a href="http://www.discuz.net/">这里是文字广告链接</a></li><li><a href="http://www.discuz.net/">这里是文字广告链接</a></li><li><a href="http://www.discuz.net/">这里是文字广告链接</a></li>
-</ul>]]></item>
+</ul>]]></item> -->
 				<item id="uid"><![CDATA[1]]></item>
 				<item id="username"><![CDATA[admin]]></item>
 				<item id="styleid"><![CDATA[0]]></item>
@@ -3127,10 +3130,10 @@
 				<item id="dateuformat"><![CDATA[0]]></item>
 				<item id="script"><![CDATA[blank]]></item>
 				<item id="param">
-					<item id="content"><![CDATA[<ul class=\"xl xl2 cl\">
+					<!-- <item id="content"><![CDATA[<ul class=\"xl xl2 cl\">
 <li><a href=\"http://www.discuz.net/\">这里是文字广告链接</a></li>
 <li><a href=\"http://www.discuz.net/\">这里是文字广告链接</a></li><li><a href=\"http://www.discuz.net/\">这里是文字广告链接</a></li><li><a href=\"http://www.discuz.net/\">这里是文字广告链接</a></li>
-</ul>]]></item>
+</ul>]]></item> -->
 					<item id="items"><![CDATA[10]]></item>
 				</item>
 				<item id="shownum"><![CDATA[10]]></item>
@@ -3148,9 +3151,9 @@
 				<item id="name"><![CDATA[首页底部文字广告链接右]]></item>
 				<item id="title"><![CDATA[]]></item>
 				<item id="classname"><![CDATA[]]></item>
-				<item id="summary"><![CDATA[<ul class="xl xl2 cl">
+				<!-- <item id="summary"><![CDATA[<ul class="xl xl2 cl">
 <li><a href="http://www.discuz.net/">这里是文字广告链接</a></li><li><a href="http://www.discuz.net/">这里是文字广告链接</a></li><li><a href="http://www.discuz.net/">这里是文字广告链接</a></li><li><a href="http://www.discuz.net/">这里是文字广告链接</a></li>
-</ul>]]></item>
+</ul>]]></item> -->
 				<item id="uid"><![CDATA[1]]></item>
 				<item id="username"><![CDATA[admin]]></item>
 				<item id="styleid"><![CDATA[0]]></item>
@@ -3162,9 +3165,9 @@
 				<item id="dateuformat"><![CDATA[0]]></item>
 				<item id="script"><![CDATA[blank]]></item>
 				<item id="param">
-					<item id="content"><![CDATA[<ul class=\"xl xl2 cl\">
+					<!-- <item id="content"><![CDATA[<ul class=\"xl xl2 cl\">
 <li><a href=\"http://www.discuz.net/\">这里是文字广告链接</a></li><li><a href=\"http://www.discuz.net/\">这里是文字广告链接</a></li><li><a href=\"http://www.discuz.net/\">这里是文字广告链接</a></li><li><a href=\"http://www.discuz.net/\">这里是文字广告链接</a></li>
-</ul>]]></item>
+</ul>]]></item> -->
 					<item id="items"><![CDATA[10]]></item>
 				</item>
 				<item id="shownum"><![CDATA[10]]></item>
@@ -3175,42 +3178,7 @@
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
-			<item id="64">
-				<item id="bid"><![CDATA[64]]></item>
-				<item id="blockclass"><![CDATA[html_html]]></item>
-				<item id="blocktype"><![CDATA[0]]></item>
-				<item id="name"><![CDATA[]]></item>
-				<item id="title"><![CDATA[]]></item>
-				<item id="classname"><![CDATA[]]></item>
-				<item id="summary"><![CDATA[<div class="bn lk"><ul class="x cl"><li><a target="_blank" href="http://www.discuz.net">官方论坛</a></li><li><a target="_blank" href="http://www.comsenz.com">Comsenz</a></li><li><a target="_blank" href="http://www.manyou.com/">漫游平台</a></li><li><a target="_blank" href="http://www.yeswan.com">Yeswan</a></li><li><a target="_blank" href="http://www.5d6d.com/">我的领地</a></li><li><a target="_blank" href="http://www.phpchina.com">PHPchina</a></li></ul></div>]]></item>
-				<item id="uid"><![CDATA[1]]></item>
-				<item id="username"><![CDATA[admin]]></item>
-				<item id="styleid"><![CDATA[0]]></item>
-				<item id="blockstyle"><![CDATA[]]></item>
-				<item id="picwidth"><![CDATA[0]]></item>
-				<item id="picheight"><![CDATA[0]]></item>
-				<item id="target"><![CDATA[blank]]></item>
-				<item id="dateformat"><![CDATA[Y-m-d]]></item>
-				<item id="dateuformat"><![CDATA[0]]></item>
-				<item id="script"><![CDATA[friendlink]]></item>
-				<item id="param">
-					<item id="content"><![CDATA[text]]></item>
-					<item id="type">
-						<item id="0"><![CDATA[1]]></item>
-						<item id="1"><![CDATA[2]]></item>
-						<item id="2"><![CDATA[3]]></item>
-						<item id="3"><![CDATA[4]]></item>
-					</item>
-					<item id="items"><![CDATA[10]]></item>
-				</item>
-				<item id="shownum"><![CDATA[10]]></item>
-				<item id="cachetime"><![CDATA[3600]]></item>
-				<item id="punctualupdate"><![CDATA[0]]></item>
-				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1299725645]]></item>
-				<item id="notinherited"><![CDATA[0]]></item>
-				<item id="isblank"><![CDATA[0]]></item>
-			</item>
+		
 			<item id="65">
 				<item id="bid"><![CDATA[65]]></item>
 				<item id="blockclass"><![CDATA[html_html]]></item>
