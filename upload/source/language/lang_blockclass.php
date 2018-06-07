@@ -1,15 +1,5 @@
 <?php
 
-/**
- *      [Discuz!] (C)2001-2099 Comsenz Inc.
- *      This is NOT a freeware, use is subject to license terms
- *
- *      $Id: lang_blockclass.php 31069 2012-07-12 09:13:58Z zhangguosheng $
- */
-
-if(!defined('IN_DISCUZ')) {
-	exit('Access Denied');
-}
 
 $lang = array(
 	'blockclass_html' => '展示类',

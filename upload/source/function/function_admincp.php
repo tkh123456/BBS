@@ -1,16 +1,5 @@
 <?php
 
-/**
- *      [Discuz!] (C)2001-2099 Comsenz Inc.
- *      This is NOT a freeware, use is subject to license terms
- *
- *      $Id: function_admincp.php 36353 2017-01-17 07:19:28Z nemohou $
- */
-
-if(!defined('IN_DISCUZ')) {
-	exit('Access Denied');
-}
-
 @set_time_limit(0);
 
 function istpldir($dir) {

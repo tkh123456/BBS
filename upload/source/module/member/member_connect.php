@@ -1,15 +1,5 @@
 <?php
 
-/**
- *      [Discuz!] (C)2001-2099 Comsenz Inc.
- *      This is NOT a freeware, use is subject to license terms
- *
- *      $Id: member_connect.php 34239 2013-11-21 08:31:14Z nemohou $
- */
-
-if(!defined('IN_DISCUZ')) {
-	exit('Access Denied');
-}
 
 define('NOROBOT', TRUE);
 
