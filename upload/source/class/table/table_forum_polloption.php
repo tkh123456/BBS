@@ -1,7 +1,7 @@
 <?php
 
 /**
- *      [Discuz!] (C)2001-2099 Comsenz Inc.
+ * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
  *      $Id: table_forum_polloption.php 31445 2012-08-28 08:56:51Z zhangguosheng $

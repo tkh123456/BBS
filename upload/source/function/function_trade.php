@@ -1,7 +1,7 @@
 <?php
 
 /**
- *      [Discuz!] (C)2001-2099 Comsenz Inc.
+ * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
  *      $Id: function_trade.php 24961 2011-10-19 06:48:00Z liulanbo $

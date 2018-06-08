@@ -1,7 +1,7 @@
 <?php
 
 /**
- *      [Discuz!] (C)2001-2099 Comsenz Inc.
+ * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
  *      $Id: block_banner.php 28625 2012-03-06 09:09:49Z zhangguosheng $

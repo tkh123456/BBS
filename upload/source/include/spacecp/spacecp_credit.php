@@ -1,7 +1,7 @@
 <?php
 
 /**
- *      [Discuz!] (C)2001-2099 Comsenz Inc.
+ * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
  *      $Id: spacecp_credit.php 32023 2012-10-31 08:20:37Z liulanbo $

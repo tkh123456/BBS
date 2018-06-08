@@ -1,7 +1,7 @@
 <?php
 
 /**
- *      [Discuz!] (C)2001-2099 Comsenz Inc.
+ * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
  *      $Id: table_common_setting.php 30476 2012-05-30 07:05:06Z zhangguosheng $

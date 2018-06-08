@@ -1,6 +1,6 @@
 <?php
 /**
- *      [Discuz!] (C)2001-2099 Comsenz Inc.
+ * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
  *      $Id: portalcp_portalblock.php 31958 2012-10-26 05:11:05Z zhangguosheng $

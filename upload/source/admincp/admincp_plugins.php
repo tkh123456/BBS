@@ -1,7 +1,7 @@
 <?php
 
 /**
- *      [Discuz!] (C)2001-2099 Comsenz Inc.
+ * 这里是注释
  *      This is NOT a freeware, use is subject to license terms'
  *
  *      $Id: admincp_plugins.php 36186 2016-10-09 03:22:47Z nemohou $

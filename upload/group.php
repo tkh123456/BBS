@@ -1,6 +1,6 @@
 <?php
 /**
- *      [Discuz!] (C)2001-2099 Comsenz Inc.
+ * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
  *      $Id: group.php 31307 2012-08-10 02:10:56Z zhengqingpeng $

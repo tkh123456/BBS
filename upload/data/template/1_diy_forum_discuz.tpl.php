@@ -1,4 +1,5 @@
-<?php if(!defined('IN_DISCUZ')) exit('Access Denied'); hookscriptoutput('discuz');?><?php include template('common/header'); ?><div id="pt" class="bm cl">
+<?php if(!defined('IN_DISCUZ')) exit('Access Denied'); hookscriptoutput('discuz');
+block_get('5,4');?><?php include template('common/header'); ?><div id="pt" class="bm cl">
 <?php if(empty($gid) && $announcements) { ?>
 <div class="y">
 <div id="an">
@@ -381,7 +382,7 @@ slideImgTexts[<?php echo $k; ?>] = '<?php echo $svalue['subject'];?>';<?php $k++
 
 <?php if(!empty($_G['setting']['pluginhooks']['index_middle'])) echo $_G['setting']['pluginhooks']['index_middle'];?>
 <div class="wp mtn">
-<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+<!--[diy=diy3]--><div id="diy3" class="area"><div id="frame8k7K8d" class="frame move-span cl frame-1"><div class="title frame-title"><span class="titletext">作业发布区</span></div><div id="frame8k7K8d_left" class="column frame-1-c"><div id="frame8k7K8d_left_temp" class="move-span temp"></div><?php block_display('5');?><div id="frame312ShT" class="frame move-span cl frame-1"><div class="title frame-title"><span class="titletext">公告发布区</span></div><div id="frame312ShT_left" class="column frame-1-c"><div id="frame312ShT_left_temp" class="move-span temp"></div><?php block_display('4');?></div></div></div></div></div><!--[/diy]-->
 </div>
 
 <?php if(empty($gid) && $_G['setting']['whosonlinestatus']) { ?>
