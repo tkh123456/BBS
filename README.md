@@ -1,3 +1,3 @@
 # BBS
 软工实践专用
-# 这里是毛潇的专用仓库
+#there is Snape's repository
