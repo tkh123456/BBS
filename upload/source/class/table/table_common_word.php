@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_word.php 27877 2012-02-16 04:33:37Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

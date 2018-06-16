@@ -3,7 +3,7 @@
 /**
  * DiscuzX Convert
  *
- * $Id: do_setting.inc.php 10469 2010-05-11 09:12:14Z monkey $
+ *  *
  */
 
 showtips('setting_tips');

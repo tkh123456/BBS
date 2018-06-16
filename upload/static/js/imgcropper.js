@@ -2,7 +2,7 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: imgcropper.js 30998 2012-07-06 07:22:08Z zhangguosheng $
+	 *
 */
 (function(){
 

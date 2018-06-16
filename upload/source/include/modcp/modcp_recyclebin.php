@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: modcp_recyclebin.php 27222 2012-01-11 08:01:39Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ') || !defined('IN_MODCP')) {

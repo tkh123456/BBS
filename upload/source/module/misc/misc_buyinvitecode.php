@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: misc_buyinvitecode.php 31572 2012-09-10 08:59:03Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

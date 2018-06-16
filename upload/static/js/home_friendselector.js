@@ -2,7 +2,7 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: home_friendselector.js 26733 2011-12-21 07:18:01Z zhengqingpeng $
+	 *
 */
 
 (function() {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: modcp_member.php 33701 2013-08-06 05:04:36Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ') || !defined('IN_MODCP')) {

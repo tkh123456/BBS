@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_member_profile.php 31536 2012-09-06 06:32:03Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_userstats.php 26680 2011-12-20 01:05:48Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

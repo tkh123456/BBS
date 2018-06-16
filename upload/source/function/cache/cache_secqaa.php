@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_secqaa.php 24522 2011-09-23 02:12:46Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

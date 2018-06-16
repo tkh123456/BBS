@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: admincp_db.php 34644 2014-06-16 09:07:08Z hypowang $
+ *       *
  */
 
 if(!defined('IN_DISCUZ') || !defined('IN_ADMINCP')) {

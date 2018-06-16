@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: block_xml.php 28663 2012-03-07 05:50:37Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

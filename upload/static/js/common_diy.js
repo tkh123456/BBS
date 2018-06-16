@@ -2,7 +2,7 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: common_diy.js 31093 2012-07-16 03:54:34Z zhangguosheng $
+	 *
 */
 
 String.prototype.property2js = function(){

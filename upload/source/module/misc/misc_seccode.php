@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: misc_seccode.php 34646 2014-06-17 03:23:15Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: install_plugin.php 32877 2013-03-19 03:48:10Z liulanbo $
+ *       *
  */
 
 define('IN_COMSENZ', TRUE);

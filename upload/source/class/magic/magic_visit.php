@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: magic_visit.php 33714 2013-08-07 01:42:26Z andyzheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

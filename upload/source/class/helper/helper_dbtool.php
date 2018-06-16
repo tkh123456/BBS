@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: helper_dbtool.php 36319 2016-12-20 02:03:23Z nemohou $
+ *       *
  */
 if (!defined('IN_DISCUZ')) {
 	exit('Access Denied');

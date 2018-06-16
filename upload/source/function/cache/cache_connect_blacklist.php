@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_connect_blacklist.php 24406 2011-09-18 06:53:04Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

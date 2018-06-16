@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_usergroup_field.php 28041 2012-02-21 07:33:55Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

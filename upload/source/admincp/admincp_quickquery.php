@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: admincp_quickquery.php 20397 2011-02-23 03:24:20Z congyushuai $
+ *       *
  */
 
 if(!defined('IN_DISCUZ') || !defined('IN_ADMINCP')) {

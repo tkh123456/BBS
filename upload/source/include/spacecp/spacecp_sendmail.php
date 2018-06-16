@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: spacecp_sendmail.php 25246 2011-11-02 03:34:53Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

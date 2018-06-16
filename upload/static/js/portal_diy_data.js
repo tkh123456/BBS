@@ -2,7 +2,7 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: portal_diy_data.js 24360 2011-09-14 08:38:06Z zhangguosheng $
+	 *
 */
 
 var drag = new Drag();

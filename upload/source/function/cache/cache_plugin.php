@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_plugin.php 33987 2013-09-13 06:48:25Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

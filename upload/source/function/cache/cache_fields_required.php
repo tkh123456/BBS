@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_fields_required.php 24935 2011-10-17 07:41:48Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

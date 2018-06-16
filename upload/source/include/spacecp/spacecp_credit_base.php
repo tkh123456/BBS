@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: spacecp_credit_base.php 33663 2013-07-30 05:06:43Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

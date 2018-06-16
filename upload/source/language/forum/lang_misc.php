@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: lang_misc.php 33974 2013-09-10 09:30:47Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

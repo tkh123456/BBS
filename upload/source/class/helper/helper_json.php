@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: helper_json.php 32779 2013-03-08 02:57:37Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

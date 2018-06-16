@@ -2,7 +2,7 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: smilies.js 29684 2012-04-25 04:00:58Z zhangguosheng $
+	 *
 */
 
 function _smilies_show(id, smcols, seditorkey) {

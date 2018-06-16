@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_forum_threadrush.php 36296 2016-12-14 07:48:12Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

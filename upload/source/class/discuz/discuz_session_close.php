@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: discuz_session_close.php 33707 2013-08-06 08:22:12Z andyzheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: forum_guide.php 34066 2013-09-27 08:36:09Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

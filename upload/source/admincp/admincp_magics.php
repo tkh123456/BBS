@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: admincp_magics.php 34093 2013-10-09 05:41:18Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ') || !defined('IN_ADMINCP')) {

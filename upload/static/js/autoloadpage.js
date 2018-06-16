@@ -2,7 +2,7 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: autoloadpage.js 33246 2013-05-09 02:07:17Z kamichen $
+	 *
 */
 
 (function() {

@@ -2,7 +2,7 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: ajax.js 34259 2013-11-26 07:37:25Z nemohou $
+	 *
 */
 
 function _ajaxget(url, showid, waitid, loading, display, recall) {

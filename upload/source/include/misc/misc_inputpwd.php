@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: misc_inputpwd.php 24741 2011-10-10 03:41:51Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_stamps.php 25773 2011-11-22 04:22:39Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

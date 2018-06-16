@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: admincp_albumcategory.php 24658 2011-09-29 09:39:40Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ') || !defined('IN_DISCUZ')) {

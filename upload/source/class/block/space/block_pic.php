@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: block_pic.php 28299 2012-02-27 08:48:36Z svn_project_zhangjie $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: helper_notification.php 34003 2013-09-18 04:31:14Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

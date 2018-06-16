@@ -2,7 +2,7 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: at.js 31619 2012-09-17 01:05:07Z monkey $
+	 *
 */
 
 if(typeof EXTRAFUNC['keydown'] != "undefined") {

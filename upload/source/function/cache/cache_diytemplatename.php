@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_diytemplatename.php 24927 2011-10-17 03:13:33Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

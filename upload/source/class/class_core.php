@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: class_core.php 33982 2013-09-12 06:36:35Z hypowang $
+ *       *
  */
 
 error_reporting(E_ALL);

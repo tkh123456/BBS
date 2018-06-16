@@ -2,7 +2,7 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: makehtml.js 33047 2013-04-12 08:46:56Z zhangguosheng $
+	 *
 */
 
 function make_html(url, obj) {

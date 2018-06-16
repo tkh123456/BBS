@@ -2,7 +2,7 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: md5.js 29228 2012-03-30 01:46:00Z monkey $
+	 *
 */
 
 var hexcase = 0;

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: spacecp_profilevalidate.php 6790 2010-03-25 12:30:53Z cnteacher $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: home_medal.php 28887 2012-03-16 10:17:38Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

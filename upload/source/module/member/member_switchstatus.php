@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: member_switchstatus.php 27203 2012-01-11 03:14:19Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

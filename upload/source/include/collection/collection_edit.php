@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: collection_edit.php 33065 2013-04-16 10:06:07Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

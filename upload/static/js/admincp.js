@@ -2,7 +2,7 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: admincp.js 31631 2012-09-17 06:36:25Z monkey $
+	 *
 */
 
 function redirect(url) {

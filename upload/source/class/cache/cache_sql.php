@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_sql.php 24721 2011-10-09 10:30:22Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

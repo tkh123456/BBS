@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_grouptype.php 24236 2011-09-01 08:49:14Z liulanbo $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

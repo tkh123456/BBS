@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: misc_patch.php 33690 2013-08-02 09:07:22Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

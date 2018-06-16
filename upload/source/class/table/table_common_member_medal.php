@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_member_medal.php 27772 2012-02-14 06:48:34Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

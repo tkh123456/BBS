@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: optimizer_usergroup4.php 33594 2013-07-12 07:38:33Z jeffjzhang $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

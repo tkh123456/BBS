@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: home_spacecp.php 33660 2013-07-29 07:51:05Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

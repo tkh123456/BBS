@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_forum_sofa.php 31637 2012-09-17 08:12:26Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

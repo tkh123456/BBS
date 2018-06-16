@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: extend_thread_activity.php 35202 2015-02-04 08:07:39Z hypowang $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

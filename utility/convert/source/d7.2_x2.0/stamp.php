@@ -3,7 +3,7 @@
 /**
  * DiscuzX Convert
  *
- * $Id: stamp.php 15786 2010-08-27 00:27:21Z monkey $
+ *  *
  */
 
 $curprg = basename(__FILE__);

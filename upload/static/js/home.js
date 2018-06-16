@@ -2,7 +2,7 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: home.js 34052 2013-09-25 06:18:43Z andyzheng $
+	 *
 */
 
 var note_step = 0;

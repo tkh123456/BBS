@@ -3,7 +3,7 @@
 /**
  * DiscuzX Convert
  *
- * $Id: settings.php 16723 2010-09-13 09:40:04Z wangjinbo $
+ *  *
  */
 
 $curprg = basename(__FILE__);

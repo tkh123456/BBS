@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_adminnote.php 31558 2012-09-10 03:22:31Z liulanbo $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

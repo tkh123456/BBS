@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: spacecp_pm.php 35056 2014-11-03 08:01:19Z hypowang $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

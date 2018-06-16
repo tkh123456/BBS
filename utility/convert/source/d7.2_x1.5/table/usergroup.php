@@ -3,7 +3,7 @@
 /**
  * DiscuzX Convert
  *
- * $Id: usergroup.php 21738 2011-04-11 07:06:36Z svn_project_zhangjie $
+ *  *
  */
 
 $curprg = basename(__FILE__);

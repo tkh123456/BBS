@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_home_docomment.php 27819 2012-02-15 05:12:23Z svn_project_zhangjie $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

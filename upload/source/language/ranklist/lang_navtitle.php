@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: lang_navtitle.php 31176 2012-07-24 02:35:37Z liulanbo $
+ *       *
  *
  *      This file is automatically generate
  */

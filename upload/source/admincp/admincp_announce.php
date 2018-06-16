@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: admincp_announce.php 33271 2013-05-13 08:16:21Z kamichen $
+ *       *
  */
 
 if(!defined('IN_DISCUZ') || !defined('IN_ADMINCP')) {

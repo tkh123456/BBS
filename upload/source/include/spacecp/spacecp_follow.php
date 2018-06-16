@@ -3,7 +3,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: spacecp_follow.php 32667 2013-02-28 07:07:30Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

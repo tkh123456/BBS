@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: topicadmin_stamp.php 33825 2013-08-19 08:32:40Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

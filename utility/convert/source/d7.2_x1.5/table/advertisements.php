@@ -3,7 +3,7 @@
 /**
  * DiscuzX Convert
  *
- * $Id: advertisements.php 15808 2010-08-27 02:34:26Z monkey $
+ *  *
  */
 
 $curprg = basename(__FILE__);

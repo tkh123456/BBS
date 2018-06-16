@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: optimizer_postqqonly.php 33867 2013-08-23 06:12:21Z jeffjzhang $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

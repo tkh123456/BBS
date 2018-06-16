@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_groupreadaccess.php 27076 2012-01-04 08:01:37Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

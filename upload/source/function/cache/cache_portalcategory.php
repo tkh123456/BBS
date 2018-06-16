@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_portalcategory.php 31224 2012-07-27 03:54:18Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

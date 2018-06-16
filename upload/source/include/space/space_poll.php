@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: space_poll.php 28220 2012-02-24 07:52:50Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

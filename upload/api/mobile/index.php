@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: index.php 33969 2013-09-10 08:32:14Z nemohou $
+ *       *
  */
 
 if(!empty($_SERVER['QUERY_STRING'])) {

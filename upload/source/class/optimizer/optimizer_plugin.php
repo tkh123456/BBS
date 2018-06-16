@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: optimizer_plugin.php 31344 2012-08-15 04:01:32Z zhangjie $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

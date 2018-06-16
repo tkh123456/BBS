@@ -3,7 +3,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: misc_imgcropper.php 36314 2016-12-19 08:02:23Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

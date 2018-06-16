@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: topicadmin_getip.php 33709 2013-08-06 09:06:56Z andyzheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

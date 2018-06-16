@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_portal_topic.php 32654 2013-02-28 03:55:27Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

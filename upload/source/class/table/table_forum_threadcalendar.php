@@ -3,7 +3,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_forum_threadcalendar.php 31913 2012-10-24 06:52:26Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

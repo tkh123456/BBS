@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: task_profile.php 24704 2011-10-08 10:19:11Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

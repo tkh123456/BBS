@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: api_tenpay.php 32222 2012-12-03 02:28:43Z monkey $
+ *       *
  */
 
 

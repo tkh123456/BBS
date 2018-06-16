@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: install_mysql.php 6758 2010-03-25 09:05:10Z cnteacher $
+ *       *
  */
 
 if(!defined('IN_COMSENZ')) {

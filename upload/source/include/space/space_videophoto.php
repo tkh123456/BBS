@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: space_videophoto.php 22572 2011-05-12 09:35:18Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

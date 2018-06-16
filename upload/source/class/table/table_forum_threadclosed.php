@@ -3,7 +3,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_forum_threadclosed.php 27449 2012-02-15 05:32:35Z liulanbo $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: adv_articlelist.php 13141 2010-07-22 00:56:42Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

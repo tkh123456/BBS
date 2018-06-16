@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: topicadmin_merge.php 31741 2012-09-26 08:12:08Z zhangjie $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: plugin.php 27335 2012-01-16 10:15:37Z monkey $
+ *       *
  */
 
 define('APPTYPEID', 127);

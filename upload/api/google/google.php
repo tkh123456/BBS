@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: google.php 34713 2014-07-14 02:33:03Z hypowang $
+ *       *
  */
 
 @define('IN_API', true);

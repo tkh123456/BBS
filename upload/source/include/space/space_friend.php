@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: space_friend.php 32006 2012-10-30 09:51:28Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

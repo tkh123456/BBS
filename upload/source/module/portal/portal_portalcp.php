@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: portal_portalcp.php 28492 2012-03-01 10:05:07Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

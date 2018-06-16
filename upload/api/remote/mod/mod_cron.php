@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: mod_cron.php 30364 2012-05-24 07:43:27Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

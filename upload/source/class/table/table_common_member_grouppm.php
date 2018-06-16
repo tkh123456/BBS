@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_member_grouppm.php 31733 2012-09-26 02:07:47Z zhangjie $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

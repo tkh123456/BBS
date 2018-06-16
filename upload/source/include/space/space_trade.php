@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: space_trade.php 28290 2012-02-27 07:15:44Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: space_album.php 33249 2013-05-09 07:27:16Z kamichen $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

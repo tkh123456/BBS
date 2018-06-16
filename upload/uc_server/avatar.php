@@ -4,7 +4,7 @@
 	[UCenter] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: avatar.php 1144 2013-01-31 06:47:43Z zhangjie $
+	 *
 */
 
 

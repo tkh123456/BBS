@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: misc.php 34264 2013-11-27 03:14:58Z nemohou $
+ *       *
  */
 
 if(isset($_GET['css'])) {

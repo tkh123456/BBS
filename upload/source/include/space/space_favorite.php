@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: space_favorite.php 33832 2013-08-20 03:32:32Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_heats.php 27425 2012-01-31 06:53:25Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

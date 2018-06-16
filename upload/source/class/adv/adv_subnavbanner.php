@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: adv_subnavbanner.php 19237 2010-12-23 04:27:46Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

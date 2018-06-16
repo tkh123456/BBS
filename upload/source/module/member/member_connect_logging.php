@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: member_connect_logging.php 33543 2013-07-03 06:01:33Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

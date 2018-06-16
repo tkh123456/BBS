@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: config_ucenter_default.php 11023 2010-05-20 02:23:09Z monkey $
+ *       *
  */
 
 // ============================================================================

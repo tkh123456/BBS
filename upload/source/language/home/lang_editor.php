@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: lang_editor.php 28113 2012-02-22 09:25:55Z svn_project_zhangjie $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

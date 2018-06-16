@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: spacecp_poke.php 34369 2014-04-01 02:00:04Z jeffjzhang $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

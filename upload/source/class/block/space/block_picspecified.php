@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: block_picspecified.php 23608 2011-07-27 08:10:07Z cnteacher $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

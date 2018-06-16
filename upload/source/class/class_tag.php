@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: class_tag.php 28830 2012-03-14 08:30:08Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

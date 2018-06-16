@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_forum_hotreply_number.php 36278 2016-12-09 07:52:35Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

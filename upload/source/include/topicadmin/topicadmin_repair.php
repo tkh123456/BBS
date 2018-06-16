@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: topicadmin_repair.php 24573 2011-09-26 10:31:21Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

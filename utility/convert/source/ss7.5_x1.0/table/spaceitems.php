@@ -3,7 +3,7 @@
 /**
  * DiscuzX Convert
  *
- * $Id: spaceitems.php 21055 2011-03-11 05:01:15Z zhangguosheng $
+ *  *
  */
 
 $curprg = basename(__FILE__);

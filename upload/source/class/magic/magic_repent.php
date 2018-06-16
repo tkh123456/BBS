@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: magic_repent.php 29373 2012-04-09 07:55:30Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: mod_index.php 30462 2012-05-30 03:27:10Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

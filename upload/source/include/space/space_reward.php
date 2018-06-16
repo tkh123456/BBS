@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: space_reward.php 33848 2013-08-21 06:24:53Z hypowang $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

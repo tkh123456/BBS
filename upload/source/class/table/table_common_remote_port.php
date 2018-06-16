@@ -3,7 +3,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_remote_port.php 33618 2013-07-17 06:16:46Z andyzheng $
+ *       *
  */
 if(!defined('IN_DISCUZ')){
 	exit('Access Denied');

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: spacecp_comment.php 28261 2012-02-27 02:26:09Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

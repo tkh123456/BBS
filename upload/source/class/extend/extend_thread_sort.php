@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: extend_thread_sort.php 34201 2013-11-04 06:21:04Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

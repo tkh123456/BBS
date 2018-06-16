@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_style.php 29200 2012-03-28 09:11:54Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

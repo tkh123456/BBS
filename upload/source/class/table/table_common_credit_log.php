@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_credit_log.php 31381 2012-08-21 07:56:35Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

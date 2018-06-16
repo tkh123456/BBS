@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: function_misc.php 33487 2013-06-21 08:00:39Z kamichen $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

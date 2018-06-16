@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: space_doing.php 29155 2012-03-27 10:39:12Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

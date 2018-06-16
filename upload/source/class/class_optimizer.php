@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: class_optimizer.php 30871 2012-06-27 09:32:37Z zhangjie $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: memory_driver_wincache.php 31432 2012-08-28 03:04:18Z zhangguosheng $
+ *       *
  */
 if (!defined('IN_DISCUZ')) {
 	exit('Access Denied');

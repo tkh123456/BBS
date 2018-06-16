@@ -4,7 +4,7 @@
 	[UCenter] (C)2001-2009 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: upgrade1.php 12117 2008-01-11 06:25:08Z heyond $
+	 *
 */
 
 define("IN_UC", TRUE);

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: optimizer_newbiespan.php 33488 2013-06-24 01:48:20Z jeffjzhang $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: misc_ajax.php 26657 2011-12-19 04:13:43Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_custominfo.php 26112 2011-12-02 03:06:01Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

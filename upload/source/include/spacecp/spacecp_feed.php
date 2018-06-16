@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: spacecp_feed.php 24613 2011-09-28 05:07:03Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

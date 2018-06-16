@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cron_cleantrace.php 24958 2011-10-19 02:54:32Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: function_seccode.php 33661 2013-07-29 08:18:34Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: config_global_default.php 36362 2017-02-04 02:02:03Z nemohou $
+ *       *
  */
 
 $_config = array();

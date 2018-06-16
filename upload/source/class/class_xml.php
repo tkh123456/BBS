@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: class_xml.php 36311 2016-12-19 01:47:34Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

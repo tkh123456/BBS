@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: space_wall.php 29522 2012-04-17 09:39:32Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

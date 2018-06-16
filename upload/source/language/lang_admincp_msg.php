@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: lang_admincp_msg.php 34498 2014-05-12 02:51:02Z nemohou $
+ *       *
  *
  *      This file is automatically generate
  */

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_forum_ratelog.php 32456 2013-01-21 05:18:56Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

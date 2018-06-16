@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: lang_member.php 29183 2012-03-28 06:39:26Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

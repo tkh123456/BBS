@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_forum_order.php 29009 2012-03-22 07:37:36Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

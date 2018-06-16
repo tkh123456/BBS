@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: memory_driver_redis.php 33336 2013-05-29 02:05:10Z andyzheng $
+ *       *
  */
 if (!defined('IN_DISCUZ')) {
 	exit('Access Denied');

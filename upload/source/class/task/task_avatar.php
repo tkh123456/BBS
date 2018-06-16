@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: task_avatar.php 16433 2010-09-07 00:04:33Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

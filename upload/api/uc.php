@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: uc.php 36358 2017-01-20 02:05:50Z nemohou $
+ *       *
  */
 
 error_reporting(0);

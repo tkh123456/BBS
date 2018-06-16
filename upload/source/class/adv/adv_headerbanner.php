@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: adv_headerbanner.php 22514 2011-05-10 11:11:11Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

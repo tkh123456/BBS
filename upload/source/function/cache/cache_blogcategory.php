@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_blogcategory.php 24543 2011-09-23 08:30:17Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

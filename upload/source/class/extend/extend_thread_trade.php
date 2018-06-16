@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: extend_thread_trade.php 34221 2013-11-15 09:10:23Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

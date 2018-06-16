@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cron_announcement_daily.php 25786 2011-11-22 06:17:25Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

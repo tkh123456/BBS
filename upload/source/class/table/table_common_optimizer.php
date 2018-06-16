@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_optimizer.php 31034 2012-07-11 04:03:30Z zhangjie $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

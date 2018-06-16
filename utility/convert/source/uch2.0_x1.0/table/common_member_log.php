@@ -3,7 +3,7 @@
 /**
  * DiscuzX Convert
  *
- * $Id: common_member_log.php 10469 2010-05-11 09:12:14Z monkey $
+ *  *
  */
 
 $curprg = basename(__FILE__);

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_creditrule.php 24850 2011-10-12 11:09:19Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

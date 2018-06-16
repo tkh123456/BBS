@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: lib_tree.php 23684 2011-08-04 02:24:59Z cnteacher $
+ *       *
  */
 if (!defined('IN_DISCUZ')) {
 	exit('Access Denied');

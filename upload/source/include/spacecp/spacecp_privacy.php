@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: spacecp_privacy.php 24946 2011-10-18 02:54:40Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

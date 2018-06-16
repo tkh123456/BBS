@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: misc_ranklist.php 32807 2013-03-13 08:49:49Z zhengqingpeng $
+ *       *
  */
 if(!defined('IN_DISCUZ')) {
 	exit('Access Denied');

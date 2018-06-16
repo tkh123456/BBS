@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: lang_template.php 36334 2017-01-03 01:32:35Z nemohou $
+ *       *
  *
  *      This file is automatically generate
  */

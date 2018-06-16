@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: function_portalcp.php 35943 2016-05-18 03:26:08Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

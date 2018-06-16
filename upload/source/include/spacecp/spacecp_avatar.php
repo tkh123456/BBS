@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: spacecp_avatar.php 23850 2011-08-11 10:16:09Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

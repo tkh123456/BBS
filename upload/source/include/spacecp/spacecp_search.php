@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: spacecp_search.php 28292 2012-02-27 07:23:14Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_cron.php 30314 2012-05-22 03:12:44Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

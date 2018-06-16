@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: misc_stat.php 34937 2014-09-04 03:08:56Z hypowang $
+ *       *
  */
 if (!defined('IN_DISCUZ')) {
 	exit('Access Denied');

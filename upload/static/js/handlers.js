@@ -2,7 +2,7 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: handlers.js 31952 2012-10-25 09:20:40Z zhengqingpeng $
+	 *
 */
 
 var sdCloseTime = 2;

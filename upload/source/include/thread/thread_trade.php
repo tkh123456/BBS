@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: thread_trade.php 28348 2012-02-28 06:16:29Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

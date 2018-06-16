@@ -4,7 +4,7 @@
  *      [Discuz!] (C)2001-2099 Comsenz Inc.
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: bbcode.class.php 10469 2010-05-11 09:12:14Z monkey $
+ *       *
  */
 
 class bbcode {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: task_member.php 26595 2011-12-16 03:50:07Z svn_project_zhangjie $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

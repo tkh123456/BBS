@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: search_forum.php 33198 2013-05-06 09:23:45Z jeffjzhang $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

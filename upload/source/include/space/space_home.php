@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: space_home.php 30780 2012-06-19 06:01:52Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

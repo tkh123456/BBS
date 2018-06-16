@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: like.php 25510 2011-11-14 02:22:26Z yexinhao $
+ *       *
  */
 
 define('IN_API', true);

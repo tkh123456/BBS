@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_taskvar.php 27781 2012-02-14 07:38:55Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

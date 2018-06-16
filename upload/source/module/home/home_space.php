@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: home_space.php 36337 2017-01-05 06:34:27Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

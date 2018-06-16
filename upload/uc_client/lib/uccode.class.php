@@ -4,7 +4,7 @@
 	[UCenter] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: uccode.class.php 1166 2014-11-03 01:49:32Z hypowang $
+	 *
 */
 
 class uccode {

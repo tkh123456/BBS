@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: discuz_ftp.php 32473 2013-01-24 07:11:38Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

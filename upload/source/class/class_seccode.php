@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: class_seccode.php 32385 2013-01-08 02:18:27Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

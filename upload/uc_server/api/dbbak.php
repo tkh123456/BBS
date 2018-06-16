@@ -4,7 +4,7 @@
 	[UCenter] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: dbbak.php 17033 2008-12-04 02:24:03Z zhaoxiongfei $
+	 *
 */
 
 error_reporting(0);

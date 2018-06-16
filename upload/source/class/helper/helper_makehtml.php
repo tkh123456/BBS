@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: helper_makehtml.php 34675 2014-07-01 05:58:13Z laoguozhang $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

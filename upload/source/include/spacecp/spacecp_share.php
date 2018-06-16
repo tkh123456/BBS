@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: spacecp_share.php 33291 2013-05-22 05:59:13Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

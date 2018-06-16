@@ -4,7 +4,7 @@
 	[UCenter] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: client.php 1179 2014-11-03 07:11:25Z hypowang $
+	 *
 */
 
 if(!defined('UC_API')) {

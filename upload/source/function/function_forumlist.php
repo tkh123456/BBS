@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: function_forumlist.php 31960 2012-10-26 06:27:50Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

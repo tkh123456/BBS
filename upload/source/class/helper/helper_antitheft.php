@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: helper_antitheft.php 33494 2013-06-26 05:26:25Z laoguozhang $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

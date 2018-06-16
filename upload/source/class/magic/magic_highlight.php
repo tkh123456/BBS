@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: magic_highlight.php 33516 2013-06-27 08:58:10Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

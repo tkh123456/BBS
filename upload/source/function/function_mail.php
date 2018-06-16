@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: function_mail.php 33961 2013-09-06 07:39:33Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

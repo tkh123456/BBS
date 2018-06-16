@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_groupicon.php 24596 2011-09-27 10:39:31Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

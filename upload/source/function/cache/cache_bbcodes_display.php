@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_bbcodes_display.php 24599 2011-09-27 11:06:53Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

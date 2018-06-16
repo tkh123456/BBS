@@ -3,7 +3,7 @@
 /**
  * DiscuzX Convert
  *
- * $Id: tags.php 20881 2011-03-07 07:09:14Z monkey $
+ *  *
  */
 
 $curprg = basename(__FILE__);

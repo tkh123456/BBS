@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: discuz_version.php 36281 2016-12-09 08:11:45Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

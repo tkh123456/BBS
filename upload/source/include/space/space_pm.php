@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: space_pm.php 33421 2013-06-09 03:30:16Z jeffjzhang $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

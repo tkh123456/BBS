@@ -3,7 +3,7 @@
 /**
  * DiscuzX Convert
  *
- * $Id: paymentlog.php 9643 2010-04-30 08:59:14Z zhaoxiongfei $
+ *  *
  */
 
 $curprg = basename(__FILE__);

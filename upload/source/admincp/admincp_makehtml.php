@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: admincp_makehtml.php 35041 2014-10-29 08:05:36Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ') || !defined('IN_DISCUZ')) {

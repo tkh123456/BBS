@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_home_follow.php 28321 2012-02-28 03:03:51Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

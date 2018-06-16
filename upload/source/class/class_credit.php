@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: class_credit.php 32967 2013-03-28 10:57:48Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

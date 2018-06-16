@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cron_cleannotification.php 24556 2011-09-26 06:16:03Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

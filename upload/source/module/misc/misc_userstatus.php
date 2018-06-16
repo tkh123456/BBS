@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: misc_userstatus.php 32720 2013-03-04 10:21:58Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

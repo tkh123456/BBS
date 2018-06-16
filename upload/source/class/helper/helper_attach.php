@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: helper_attach.php 32531 2013-02-06 10:15:19Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

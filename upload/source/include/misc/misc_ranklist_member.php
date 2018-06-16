@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: misc_ranklist_member.php 26628 2011-12-16 10:20:35Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

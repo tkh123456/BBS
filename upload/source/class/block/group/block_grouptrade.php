@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: block_grouptrade.php 32768 2013-03-07 09:40:05Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -3,7 +3,7 @@
 /**
  * DiscuzX Convert
  *
- * $Id: index.php 8 2010-04-07 03:56:45Z Cnteacher $
+ *  *
  */
 
 $_config['source']['dbhost'] = 'localhost';

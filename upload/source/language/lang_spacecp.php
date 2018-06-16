@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: lang_spacecp.php 32426 2013-01-15 10:00:21Z liulanbo $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

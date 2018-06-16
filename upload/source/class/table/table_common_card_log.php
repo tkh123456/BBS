@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_card_log.php 31076 2012-07-13 03:30:58Z zhangjie $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

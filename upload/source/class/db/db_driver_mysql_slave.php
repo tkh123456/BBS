@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: db_driver_mysql_slave.php 31879 2012-10-18 09:27:24Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_forum_polloption.php 31445 2012-08-28 08:56:51Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

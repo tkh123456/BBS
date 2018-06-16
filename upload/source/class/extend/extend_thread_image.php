@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: extend_thread_image.php 32709 2013-03-04 03:28:55Z zhangjie $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: spacecp_invite.php 25042 2011-10-24 03:27:47Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

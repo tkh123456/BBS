@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_credit_rule.php 27900 2012-02-16 07:50:00Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

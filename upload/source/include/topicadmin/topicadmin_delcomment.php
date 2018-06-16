@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: topicadmin_delcomment.php 31950 2012-10-25 09:05:44Z liulanbo $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

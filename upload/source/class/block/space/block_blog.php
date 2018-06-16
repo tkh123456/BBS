@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: block_blog.php 29655 2012-04-24 05:51:56Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

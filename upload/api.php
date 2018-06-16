@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: api.php 33591 2013-07-12 06:39:49Z andyzheng $
+ *       *
  */
 
 define('IN_API', true);

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_forum_promotion.php 27863 2012-02-16 02:53:12Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

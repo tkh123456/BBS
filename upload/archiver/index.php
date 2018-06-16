@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: index.php 17587 2010-10-25 01:25:10Z monkey $
+ *       *
  */
 
 define('IN_ARCHIVER', 1);

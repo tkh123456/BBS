@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: lang_admincp_searchindex.php 34156 2013-10-25 01:10:00Z nemohou $
+ *       *
  *
  *	This file is automatically generate
  */

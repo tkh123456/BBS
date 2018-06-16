@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_globalstick.php 24152 2011-08-26 10:04:08Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

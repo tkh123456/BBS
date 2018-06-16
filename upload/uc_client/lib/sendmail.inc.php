@@ -4,7 +4,7 @@
 	[UCenter] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: sendmail.inc.php 1124 2011-12-06 11:03:23Z svn_project_zhangjie $
+	 *
 */
 
 !defined('IN_UC') && exit('Access Denied');

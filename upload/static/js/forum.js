@@ -2,7 +2,7 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: forum.js 33824 2013-08-19 08:26:11Z nemohou $
+	 *
 */
 
 function saveData(ignoreempty) {

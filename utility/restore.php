@@ -4,7 +4,7 @@
  *      [Discuz!] (C)2001-2099 Comsenz Inc.
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: restore.php 36278 2016-12-09 07:52:35Z nemohou $
+ *       *
  */
 
 error_reporting(E_ERROR | E_WARNING | E_PARSE);

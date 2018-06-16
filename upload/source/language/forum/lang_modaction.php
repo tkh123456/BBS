@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: lang_modaction.php 31651 2012-09-18 10:23:26Z zhangjie $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

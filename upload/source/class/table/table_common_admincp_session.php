@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_admincp_session.php 27803 2012-02-15 02:39:36Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

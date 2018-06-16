@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cron_cleanup_daily.php 33675 2013-08-01 02:09:09Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

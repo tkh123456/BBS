@@ -3,7 +3,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: spacecp_promotion.php 25889 2011-11-24 09:52:20Z monkey $
+ *       *
  */
 if(!defined('IN_DISCUZ')) {
 	exit('Access Denied');

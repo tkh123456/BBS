@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: function_share.php 31894 2012-10-23 02:13:29Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

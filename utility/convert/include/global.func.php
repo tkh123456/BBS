@@ -3,7 +3,7 @@
 /**
  * DiscuzX Convert
  *
- * $Id: global.func.php 20661 2011-03-01 08:08:07Z shanzongjun $
+ *  *
  */
 
 function remaintime($time) {

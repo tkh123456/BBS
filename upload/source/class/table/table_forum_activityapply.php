@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_forum_activityapply.php 28709 2012-03-08 08:53:48Z liulanbo $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

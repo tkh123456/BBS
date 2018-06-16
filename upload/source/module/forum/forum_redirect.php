@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: forum_redirect.php 28464 2012-03-01 06:35:27Z liulanbo $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

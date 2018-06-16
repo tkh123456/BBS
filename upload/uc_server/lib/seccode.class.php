@@ -4,13 +4,13 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: seccode.class.php 1164 2014-10-31 06:58:24Z hypowang $
+	 *
 */
 
 class seccode {
 
-	var $code;			//100000-999999 ·¶Î§ÄÚËæ»ú
-	var $type 	= 0;		//0 Ó¢ÎÄÍ¼Æ¬ÑéÖ¤Âë  1 ÖÐÎÄÍ¼Æ¬ÑéÖ¤Âë  2 Flash ÑéÖ¤Âë  3 ÓïÒôÑéÖ¤Âë
+	var $code;			//100000-999999 ï¿½ï¿½Î§ï¿½ï¿½ï¿½ï¿½ï¿½
+	var $type 	= 0;		//0 Ó¢ï¿½ï¿½Í¼Æ¬ï¿½ï¿½Ö¤ï¿½ï¿½  1 ï¿½ï¿½ï¿½ï¿½Í¼Æ¬ï¿½ï¿½Ö¤ï¿½ï¿½  2 Flash ï¿½ï¿½Ö¤ï¿½ï¿½  3 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½
 	var $width 	= 0;
 	var $height 	= 0;
 	var $background	= 1;
@@ -20,8 +20,8 @@ class seccode {
 	var $color 	= 1;
 	var $size 	= 0;
 	var $shadow 	= 1;
-	var $animator 	= 0;		//GIF ¶¯»­
-	var $fontpath	= '';		//TTF ×Ö¿âÄ¿Â¼
+	var $animator 	= 0;		//GIF ï¿½ï¿½ï¿½ï¿½
+	var $fontpath	= '';		//TTF ï¿½Ö¿ï¿½Ä¿Â¼
 	var $datapath	= '';
 	var $includepath= '';
 

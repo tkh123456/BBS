@@ -3,7 +3,7 @@
 /**
  * DiscuzX Convert
  *
- * $Id: forumfields.php 10467 2010-05-11 09:05:58Z monkey $
+ *  *
  */
 
 $curprg = basename(__FILE__);

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cache_announcements_forum.php 26271 2011-12-07 09:15:53Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

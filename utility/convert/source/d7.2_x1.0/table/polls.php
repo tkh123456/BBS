@@ -3,7 +3,7 @@
 /**
  * DiscuzX Convert
  *
- * $Id: polls.php 9659 2010-05-04 01:30:17Z wangjinbo $
+ *  *
  */
 
 $curprg = basename(__FILE__);

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cron_todaypost_daily.php 31920 2012-10-24 09:18:33Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

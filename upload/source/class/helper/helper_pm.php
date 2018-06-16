@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: helper_pm.php 31440 2012-08-28 07:22:57Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

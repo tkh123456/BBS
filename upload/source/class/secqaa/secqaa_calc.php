@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: secqaa_calc.php 10395 2010-05-11 04:48:31Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_setting.php 30476 2012-05-30 07:05:06Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

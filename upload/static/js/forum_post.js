@@ -2,7 +2,7 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: forum_post.js 33695 2013-08-03 04:39:22Z nemohou $
+	 *
 */
 
 var forum_post_inited = true;

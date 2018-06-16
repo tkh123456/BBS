@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: cron_medal_daily.php 24698 2011-10-08 08:36:47Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

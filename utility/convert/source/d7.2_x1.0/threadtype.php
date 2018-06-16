@@ -3,7 +3,7 @@
 /**
  * DiscuzX Convert
  *
- * $Id: threadtype.php 16404 2010-09-06 06:38:01Z wangjinbo $
+ *  *
  */
 
 $curprg = basename(__FILE__);

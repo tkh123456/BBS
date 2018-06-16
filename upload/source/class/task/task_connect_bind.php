@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: task_connect_bind.php 22196 2011-04-26 02:02:52Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

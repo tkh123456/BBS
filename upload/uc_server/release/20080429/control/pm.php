@@ -4,7 +4,7 @@
 	[UCenter] (C)2001-2009 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: pm.php 643 2008-09-25 10:20:59Z monkey $
+	 *
 */
 
 !defined('IN_UC') && exit('Access Denied');

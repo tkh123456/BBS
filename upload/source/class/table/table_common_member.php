@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_member.php 31849 2012-10-17 04:39:16Z zhangguosheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

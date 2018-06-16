@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: discuz_censor.php 31079 2012-07-13 07:03:10Z liulanbo $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

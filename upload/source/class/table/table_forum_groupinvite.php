@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_forum_groupinvite.php 27763 2012-02-14 03:42:56Z liulanbo $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

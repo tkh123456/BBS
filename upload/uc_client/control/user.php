@@ -4,7 +4,7 @@
 	[UCenter] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: user.php 1174 2014-11-03 04:38:12Z hypowang $
+	 *
 */
 
 !defined('IN_UC') && exit('Access Denied');

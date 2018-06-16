@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: block_friendlink.php 24531 2011-09-23 05:45:11Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

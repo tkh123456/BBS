@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: forum_relatethread.php 25791 2011-11-22 07:10:59Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_common_advertisement.php 33658 2013-07-29 06:25:15Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

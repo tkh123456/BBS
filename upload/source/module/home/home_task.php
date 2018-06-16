@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: home_task.php 27146 2012-01-06 09:34:49Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

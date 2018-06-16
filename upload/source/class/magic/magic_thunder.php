@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: magic_thunder.php 27087 2012-01-05 01:49:09Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

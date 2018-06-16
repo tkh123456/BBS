@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: member_regverify.php 28003 2012-02-20 09:55:39Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: portal_rss.php 24992 2011-10-20 09:41:00Z liulanbo $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: search_user.php 36349 2017-01-16 03:05:23Z nemohou $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: search_group.php 30187 2012-05-16 03:24:35Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

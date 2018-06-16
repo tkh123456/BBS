@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: memory_driver_apc.php 27635 2012-02-08 06:38:31Z zhangguosheng $
+ *       *
  */
 if (!defined('IN_DISCUZ')) {
 	exit('Access Denied');

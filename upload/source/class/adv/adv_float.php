@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: adv_float.php 26692 2011-12-20 05:27:38Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

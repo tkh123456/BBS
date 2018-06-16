@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_home_friendlog.php 27866 2012-02-16 03:07:04Z zhengqingpeng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

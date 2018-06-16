@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: extend_thread_rushreply.php 34216 2013-11-14 02:32:06Z hypowang $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

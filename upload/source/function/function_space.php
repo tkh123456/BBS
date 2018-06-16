@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: function_space.php 34052 2013-09-25 06:18:43Z andyzheng $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

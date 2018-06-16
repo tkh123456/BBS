@@ -2,7 +2,7 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: html2dynamic.js 32720 2013-03-04 10:21:58Z zhangguosheng $
+	 *
 */
 
 function htmlGetUserStatus () {

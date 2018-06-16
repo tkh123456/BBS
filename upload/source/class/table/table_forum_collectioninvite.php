@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: table_forum_collectioninvite.php 27779 2012-02-14 07:33:17Z chenmengshu $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

@@ -4,7 +4,7 @@
 	[UCenter] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: template.class.php 1167 2014-11-03 03:06:21Z hypowang $
+	 *
 */
 
 class template {

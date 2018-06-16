@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: memory_driver_memcached.php 27449 2017-07-11 05:32:35Z ladyff $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

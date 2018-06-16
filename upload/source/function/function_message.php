@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: function_message.php 32580 2013-02-22 03:40:28Z monkey $
+ *       *
  */
 
 if(!defined('IN_DISCUZ')) {

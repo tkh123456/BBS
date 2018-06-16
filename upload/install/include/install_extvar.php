@@ -4,7 +4,7 @@
  * 这里是注释
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: install_extvar.php 31245 2012-07-31 02:54:24Z liulanbo $
+ *       *
  */
 
 if(!defined('IN_COMSENZ')) {

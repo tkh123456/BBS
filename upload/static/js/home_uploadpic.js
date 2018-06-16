@@ -2,7 +2,7 @@
 	[Discuz!] (C)2001-2099 Comsenz Inc.
 	This is NOT a freeware, use is subject to license terms
 
-	$Id: home_uploadpic.js 32590 2013-02-22 09:42:48Z monkey $
+	 *
 */
 
 var attachexts = new Array();
